@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Pham Thi Truc Ly</name>
+        <address>Quang Ngai</address>
+        <dateOfBirth>2005-06-24</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Nguyen Van A</name>
+        <address>Quang Ngai</address>
+        <dateOfBirth>2003-05-15</dateOfBirth>
+    </student>
+</students>
